@@ -1,9 +1,3 @@
-<div align="center">
-
-<a href="https://github.com/RudranshCoder">
-  <img src="https://www.gitskins.com/api/section/hero?username=RudranshCoder&theme=studio&style=aura" alt="RudranshCoder on GitSkins" width="100%" />
-</a>
-
 # 🎓 GRANTLY
 
 ### Your potential deserves an opportunity.
@@ -205,6 +199,4 @@ GitHub: [@RudranshCoder](https://github.com/RudranshCoder)
 
 **GRANTLY**: Your potential deserves an opportunity. 🎓
 
-<sub>Profile card by <a href="https://www.gitskins.com">GitSkins</a></sub>
 
-</div>
